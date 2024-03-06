@@ -1,2 +1,6 @@
 Hi eweryone !
+<<<<<<< HEAD
  Start work with Git
+=======
+version2
+>>>>>>> Dmitro.Maksimenko.gitpractice
