@@ -1,2 +1,6 @@
 Hi eweryone !
+<<<<<<< HEAD
 version2
+=======
+ Start work with Git
+>>>>>>> f380b950897801c862e5c1ba1ef9b39f00f33da6
